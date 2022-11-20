@@ -1,25 +1,20 @@
 {
-
-  "Users":[      
-           {
-              "id":"Harsh",
-              "serial": "23a027153a693f49"
-            
-          },
-          {
-              "id":"Papa",
-              "serial": "39548a07764b2df4"
-            
-          },
-         {
-              "id":"Tab",
-              "serial": "12baacaa268c4f3b"
-  
-  },
-  {
-       "id":"Dixit",
-       "serial": "834530d982efc06a"
-
+  "Users": [
+    {
+      "id": "Harsh",
+      "serial": "23a027153a693f49"
+    },
+    {
+      "id": "Papa",
+      "serial": "39548a07764b2df4"
+    },
+    {
+      "id": "Tab",
+      "serial": "12baacaa268c4f3b"
+    },
+    {
+      "id": "Dixit",
+      "serial": "834530d982efc06a"
+    }
+  ]
 }
-    ]
-  }
